@@ -1,0 +1,20 @@
+body{
+    background-color: #47273c;
+}
+h1{
+    color: rgb(19, 212, 187);
+    font-size:7;
+}
+#color1 {background:rgba(37, 162, 197, 0.47);}
+#color2 {background:rgba(255, 38, 38, 0.66);}
+#color3 {background:rgba(255, 126, 13, 0.63);}
+#color4 {background:rgba(227, 227, 45, 0.69);}
+#color5 {background:rgba(202, 0, 202, 0.54);}
+#color6 {background:rgba(199, 89, 232, 0.64);}
+#color7 {background:rgba(185, 38, 82, 0.69);}
+#color8 {background:rgba(7, 150, 50, 0.71);}
+#color9 {background:rgba(98, 253, 204, 0.66);}
+#color0 {background:rgba(38, 75, 221, 0.6);}
+#number {text-align:left;font-size:0.7vw}
+#mass {text-align:right;font-size:0.7vw}
+#elem {text-align:center;font-size:1vw}
